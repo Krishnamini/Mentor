@@ -1,0 +1,97 @@
+*{
+    margin: 0% auto;
+    padding:0% auto;
+}
+.pp{
+    margin-right: 20px;
+}
+.btn{
+    border-radius: 30px;
+}
+  .fix{
+   position: fixed;
+   z-index: 100;
+   background-color: aqua;
+   color: black;
+   
+  }
+
+.back1{
+    background-image:url(./image/hero-bg.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 500px;
+    
+}
+.btn2{
+    width: 140px;
+    border-radius: 30px;
+    border: white;
+}
+.back3{
+    background-color: black;
+    height: 500px;
+    
+}
+.white{
+    color:white;
+    padding-top: 100px;
+}
+.img1 img{
+    width: 100%;
+    height: 60%;
+}
+.img2 img{
+    width: 100%;
+    height: 30%;
+}
+.img3 img{
+    width: 100%;
+    height: 100%;
+}
+.left1{
+    margin-left:140px ;
+}
+.back-color{
+    background-color: rgb(95,207,128);
+    border-radius: 10px;
+    color: white;
+}
+.back-color button{
+    background-color:rgb(127,217,153);
+    margin-left:140px ;
+    border-radius: 10px;
+    width: 120px;
+    color: white;
+    border: white;
+
+}
+.img4 img{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    margin-left: 50px;
+}
+.img5 img{
+    width: 70px;
+    height: 70px;
+    margin-left: 90px;
+}
+.ma2{
+    padding-top: 40px;
+}
+.img6 img{
+    width: 80px;
+    height: 80px;
+    margin-left: 90px;
+}
+.ma3{
+    padding-top: 20px;
+}
+.bor2{
+    border: 1px solid black;
+}
+.bor1{
+    border: 1px solid black;
+    height: 360px;
+}
